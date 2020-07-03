@@ -16,7 +16,7 @@ class FullPost extends Component {
 
         );
         return post;
-    }
+    } 
 }
 
 export default FullPost;
